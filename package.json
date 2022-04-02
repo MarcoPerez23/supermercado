@@ -1,0 +1,15 @@
+{
+  "name": "supermercado",
+  "version": "1.0.0",
+  "description": "proyectoFinal ProgAvz",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Marco Perez",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^18.0.1"
+  }
+}
